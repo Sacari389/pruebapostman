@@ -1,0 +1,6 @@
+@pruebapostman_HostAddress = http://localhost:5042
+
+GET {{pruebapostman_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
